@@ -1,0 +1,11 @@
+{
+  "appName": "LITE X CHEATS V10",
+  "version": "1.0",
+  "author": "ishan",
+  "config": {
+    "silentAimCharmEnabled": true,
+    "theme": "dark_futuristic",
+    "autoHeadshot": true,
+    "fov": 180
+  }
+}
